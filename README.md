@@ -1,2 +1,4 @@
 # AIMed
-AIMed is the smartest way to communicate in E.R
+
+![pic](./git_/introduction.png)
+![pic](./git_/valueprop.png)
